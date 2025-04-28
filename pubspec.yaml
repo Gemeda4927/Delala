@@ -1,0 +1,71 @@
+name: delala
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core Flutter and Firebase dependencies
+  firebase_core: ^3.12.1
+  firebase_auth: ^5.5.1
+  firebase_analytics: ^11.4.4
+  firebase_messaging: ^15.2.4
+  firebase_storage: ^12.4.4
+  cloud_firestore: ^5.6.5
+
+  # Networking and state management
+  dio: ^5.8.0+1
+  flutter_bloc: ^9.1.0
+  get_it: ^8.0.3
+  go_router: ^14.8.1
+  google_fonts: ^6.1.0
+  intl: ^0.20.2 # Updated version
+
+  # UI and icons
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^1.0.0
+  font_awesome_flutter: ^10.8.0
+  flutter_feather_icons: ^2.0.0+1
+  flutter_tilt: ^3.0.0
+  carousel_slider: ^5.0.0
+  flutter_rating_bar: ^4.0.1
+  iconsax: ^0.0.8
+
+  # Utilities and pagination
+  connectivity_plus: ^6.0.5
+  cached_network_image: ^3.3.1
+  url_launcher: ^6.3.1
+  infinite_scroll_pagination: ^4.0.0
+  overlay_support: ^2.1.0
+  shimmer: ^3.0.0
+  # flutter_vibrate: ^1.3.0
+  fluttertoast: ^8.2.12
+  chapa_unofficial: ^0.0.5
+  http: ^1.3.0
+  chapasdk: ^0.0.8
+  uuid: ^4.5.0
+  universal_html: ^2.2.4
+  flutter_staggered_animations: ^1.1.0
+  dartz: ^0.10.1
+  logging: ^1.3.0
+  lottie: ^3.3.1
+  iconly: ^1.0.1
+  animate_do: ^4.2.0
+  flutter_iconly: ^1.0.2
+  animations: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  test: ^1.25.15
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

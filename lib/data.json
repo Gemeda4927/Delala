@@ -1,0 +1,238 @@
+[
+  {
+    "id": "67f73a01de0d138e5a663584",
+    "name": "Men's Running Shoes",
+    "attributes": {
+      "options": [
+        "color",
+        "size",
+        "brand",
+        "material",
+        "style"
+      ]
+    },
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/mens-running-shoes.jpg",
+    "description": "Explore premium running shoes designed for performance and comfort.",
+    "subcategories": [
+      {
+        "id": "67f73a01de0d138e5a663585",
+        "name": "Trail Running Shoes",
+        "description": "Perfect shoes for off-road running, built for rugged terrain.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/trail-running-shoes.jpg",
+        "attributes": {
+          "material": "Mesh, Rubber",
+          "color": ["Green", "Black", "Grey"],
+          "weight": "300g",
+          "soleType": "Anti-Slip"
+        },
+        "priceRange": "$70 - $130",
+        "rating": 4.6,
+        "isFeatured": true,
+        "stockCount": 50,
+        "createdAt": "2025-04-15T10:00:00Z",
+        "updatedAt": "2025-04-18T13:00:00Z"
+      },
+      {
+        "id": "67f73a01de0d138e5a663586",
+        "name": "Road Running Shoes",
+        "description": "Sleek, lightweight shoes designed for road runners.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/road-running-shoes.jpg",
+        "attributes": {
+          "material": "Flyknit, EVA",
+          "color": ["Blue", "Red", "White"],
+          "weight": "250g",
+          "cushioning": "Soft",
+          "soleType": "Lightweight"
+        },
+        "priceRange": "$60 - $120",
+        "rating": 4.3,
+        "isFeatured": false,
+        "stockCount": 75,
+        "createdAt": "2025-04-20T09:00:00Z",
+        "updatedAt": "2025-04-22T11:30:00Z"
+      }
+    ],
+    "priceRange": "$50 - $150",
+    "rating": 4.5,
+    "isFeatured": true,
+    "stockCount": 120,
+    "createdAt": "2025-04-24T10:00:00Z",
+    "updatedAt": "2025-04-24T12:00:00Z"
+  },
+  {
+    "id": "67f73abbde0d138e5a663586",
+    "name": "Women's Sneakers",
+    "attributes": {
+      "options": [
+        "color",
+        "size",
+        "brand",
+        "heel type",
+        "occasion"
+      ]
+    },
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/womens-sneakers.jpg",
+    "description": "Trendy and stylish sneakers for women, perfect for every occasion.",
+    "subcategories": [
+      {
+        "id": "67f73abbde0d138e5a663587",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/casual-sneakers.jpg",
+        "attributes": {
+          "material": "Canvas, Rubber",
+          "color": ["Pink", "Black", "White"],
+          "comfortLevel": "High",
+          "occasion": "Casual, Daily Use"
+        },
+        "priceRange": "$35 - $85",
+        "rating": 4.4,
+        "isFeatured": true,
+        "stockCount": 100,
+        "createdAt": "2025-04-18T09:00:00Z",
+        "updatedAt": "2025-04-20T15:00:00Z"
+      },
+      {
+        "id": "67f73abbde0d138e5a663588",
+        "name": "Sporty Sneakers",
+        "description": "High-performance sneakers for active women.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/sporty-sneakers.jpg",
+        "attributes": {
+          "material": "Mesh, Synthetic",
+          "color": ["Grey", "Blue", "Yellow"],
+          "weight": "350g",
+          "activity": "Running, Training"
+        },
+        "priceRange": "$50 - $110",
+        "rating": 4.7,
+        "isFeatured": false,
+        "stockCount": 60,
+        "createdAt": "2025-04-22T12:30:00Z",
+        "updatedAt": "2025-04-23T14:45:00Z"
+      }
+    ],
+    "priceRange": "$40 - $100",
+    "rating": 4.0,
+    "isFeatured": false,
+    "stockCount": 80,
+    "createdAt": "2025-04-20T09:00:00Z",
+    "updatedAt": "2025-04-22T11:30:00Z"
+  },
+  {
+    "id": "67f73c9804179def4c4d3b4c",
+    "name": "Leather Boots",
+    "attributes": [
+      "color",
+      "size",
+      "brand",
+      "material",
+      "waterproof",
+      "sole type"
+    ],
+    "imageUrl": "https://res.cloudinary.com/drdsqulxl/image/upload/v1744267041/categories/xkmuvoo1dhdbii7hmoec.png",
+    "description": "Classic leather boots made from premium materials for durability and style.",
+    "subcategories": [
+      {
+        "id": "67f73c9804179def4c4d3b5d",
+        "name": "Winter Boots",
+        "description": "Insulated boots perfect for cold weather.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/winter-boots.jpg",
+        "attributes": {
+          "material": "Leather, Fur",
+          "color": ["Brown", "Black"],
+          "weight": "500g",
+          "waterproof": "Yes",
+          "thermalInsulation": "High"
+        },
+        "priceRange": "$150 - $300",
+        "rating": 4.8,
+        "isFeatured": true,
+        "stockCount": 30,
+        "createdAt": "2025-04-12T11:00:00Z",
+        "updatedAt": "2025-04-13T14:00:00Z"
+      },
+      {
+        "id": "67f73c9804179def4c4d3b6f",
+        "name": "Work Boots",
+        "description": "Heavy-duty boots for outdoor and construction work.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/work-boots.jpg",
+        "attributes": {
+          "material": "Leather, Steel Toe",
+          "color": ["Tan", "Dark Brown"],
+          "weight": "600g",
+          "soleType": "Anti-Slip, Hardwearing"
+        },
+        "priceRange": "$120 - $250",
+        "rating": 4.7,
+        "isFeatured": false,
+        "stockCount": 50,
+        "createdAt": "2025-04-15T10:30:00Z",
+        "updatedAt": "2025-04-17T14:00:00Z"
+      }
+    ],
+    "priceRange": "$120 - $250",
+    "rating": 4.7,
+    "isFeatured": true,
+    "stockCount": 50,
+    "createdAt": "2025-04-15T08:30:00Z",
+    "updatedAt": "2025-04-17T14:00:00Z"
+  },
+  {
+    "id": "68020a877a62f06598b66d13",
+    "name": "Kids' Sports Shoes",
+    "attributes": [
+      "color",
+      "size",
+      "brand",
+      "easy closure",
+      "cushion level",
+      "age group"
+    ],
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/kids-sports-shoes.jpg",
+    "description": "Comfortable and lightweight sports shoes designed for active kids.",
+    "subcategories": [
+      {
+        "id": "68020a877a62f06598b66d14",
+        "name": "Running Shoes",
+        "description": "Shoes designed for speed and comfort for kids.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/kids-running-shoes.jpg",
+        "attributes": {
+          "material": "Mesh, EVA",
+          "color": ["Pink", "Blue", "Purple"],
+          "cushionLevel": "Soft",
+          "ageGroup": "3-6"
+        },
+        "priceRange": "$35 - $70",
+        "rating": 4.3,
+        "isFeatured": false,
+        "stockCount": 150,
+        "createdAt": "2025-04-10T07:30:00Z",
+        "updatedAt": "2025-04-12T08:00:00Z"
+      },
+      {
+        "id": "68020a877a62f06598b66d15",
+        "name": "Basketball Shoes",
+        "description": "Durable shoes built for the court, supporting kids in their game.",
+        "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1714267051/categories/kids-basketball-shoes.jpg",
+        "attributes": {
+          "material": "Synthetic Leather, Rubber",
+          "color": ["Red", "Black", "White"],
+          "cushionLevel": "High",
+          "ageGroup": "6-12"
+        },
+        "priceRange": "$50 - $90",
+        "rating": 4.5,
+        "isFeatured": true,
+        "stockCount": 200,
+        "createdAt": "2025-04-12T12:30:00Z",
+        "updatedAt": "2025-04-15T13:00:00Z"
+      }
+    ],
+    "priceRange": "$35 - $90",
+    "rating": 4.4,
+    "isFeatured": false,
+    "stockCount": 180,
+    "createdAt": "2025-04-10T06:30:00Z",
+    "updatedAt": "2025-04-12T08:00:00Z"
+  }
+]
